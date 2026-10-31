@@ -1,6 +1,6 @@
 # pgn-stats
 
-[![CI](https://github.com/OWNER/pgn-stats/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/pgn-stats/actions/workflows/ci.yml)
+[![CI](https://github.com/SamruddhBorker/pgn-stats/actions/workflows/ci.yml/badge.svg)](https://github.com/SamruddhBorker/pgn-stats/actions/workflows/ci.yml)
 
 A fast, dependency-free C++17 command-line tool that reads a chess database in
 [PGN](https://en.wikipedia.org/wiki/Portable_Game_Notation) format and reports:
